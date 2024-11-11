@@ -1,0 +1,13 @@
+body {
+    direction: rtl;
+}
+
+.box {
+    background-color: thistle;
+    border-radius: 30px;
+}
+
+.box ul {
+    list-style: none;
+    padding: 50px;
+}
